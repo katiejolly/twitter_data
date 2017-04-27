@@ -5,9 +5,9 @@ from tweepy.streaming import StreamListener
 import json
 
 access_token = '2832470440-hGpjl5nd1JRmJcSAt8XVZ0wM735UYyzUQ9ore4g'
-access_secret = 'aMl9TlQMe8WqPK333augBnWB1vXBBcq66lOBbeXYSoKTT'
+access_secret = 
 consumer_key = 'uYp7m5Yzx48FJyxQvmQWZIKDm'
-consumer_secret = 'k26M1TwaFjsF9YmzmcqUKIXinIjtsz6hFju8IDNMLbKU12WqMA'
+consumer_secret = 
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
